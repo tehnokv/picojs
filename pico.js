@@ -1,5 +1,5 @@
 /* This library is released under the MIT license, see https://github.com/tehnokv/picojs */
-pico = {}
+window.pico = {}
 
 pico.unpack_cascade = function(bytes)
 {
