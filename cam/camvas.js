@@ -56,7 +56,7 @@ function camvas(ctx, callback) {
       // For some effects, you might want to know how much time is passed
       // since the last frame; that's why we pass along a Delta time `dt`
       // variable (expressed in milliseconds)
-      var dt = Date.now - last
+      var dt = Date.now() - last
       self.callback(self.video, dt)
       last = Date.now()
       requestAnimationFrame(loop) 
