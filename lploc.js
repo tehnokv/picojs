@@ -1,5 +1,5 @@
 /* This library is released under the MIT license, see https://github.com/nenadmarkus/picojs */
-lploc = {}
+var lploc = {}
 
 lploc.unpack_localizer = function(bytes)
 {
