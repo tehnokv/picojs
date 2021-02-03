@@ -1,0 +1,22 @@
+{
+  "name": "picojs",
+  "version": "1.0.0",
+  "description": "A face detection library in 200 lines of JavaScript",
+  "main": "pico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehnokv/picojs.git"
+  },
+  "keywords": [
+    "picojs"
+  ],
+  "author": "tehnokv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tehnokv/picojs/issues"
+  },
+  "homepage": "https://github.com/tehnokv/picojs#readme"
+}
